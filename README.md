@@ -46,3 +46,12 @@ I once made the comment that I could write better 'Yandere' YouTube Voice Actor 
 ### What is your background as a developer? 
 
 I've coded mainly AI/ML projects, bots, scrapers, economic analysis, media sifters, language processors, automation scripts, and some API work. I've only been coding for two, maybe three, years and besides the ubiquitous three (HTML, CSS, Javascript), I only have any experience with Python. Being a developer is about fifth on my list of 'professions that help define me'. I'm better knows as a writer, an economist, a producer, or a political staffer.
+
+## Links and other work
+
+You can contact me or check out my other work at:
+
+ - https://youtube.com/c/MediciVoices
+ - https://twitter.com/thelustriva
+ - https://patreon.com/TheLustriVA
+ - https://ko-fi.com/thelustriwriter
