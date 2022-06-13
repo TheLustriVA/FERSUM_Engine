@@ -4,7 +4,7 @@
 
 A python engine for developing custom or auto-generated interactive novels and text-based games with extreme depth and replayability.
 
-The name is pronounced "Fearsome Engine" and is a recursive acronym made in honour of Iain M Banks. The first two letter of FERSUM in FERSUM Engine stand for 'FERSUM Engine'.
+The name is pronounced "Fearsome Engine" and is a recursive acronym made in honour of Iain M Banks. The first two letters of FERSUM in FERSUM Engine stand for 'FERSUM Engine'.
 
 ## Goals
 
