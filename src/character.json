@@ -1,0 +1,133 @@
+{
+    "protagonist": {
+        "first_name": "",
+        "second_name": "",
+        "subj_p": "",
+        "obj_p": "",
+        "pos_p": "",
+        "ref_p": "",
+        "age" : 25,
+        "birthplace" : "Wolf 359",
+        "attracted to": [
+            ""
+        ],
+        "appearance": {
+            "build": "",
+            "hair_style": "",
+            "hair_colour": "",
+            "hair_neatness": "",
+            "skin_colour_descrip": "",
+            "height": [
+                "small",
+                "short",
+                "average",
+                "tall",
+                "towering"
+            ],
+            "eye_colour": [
+                ""
+            ],
+            "make-up": {
+                "mascara": "",
+                "eye-shadow": "",
+                "eye-liner": "",
+                "blush": "",
+                "lipstick": "",
+                "henna": ""
+            }
+        },
+        "vitals": {
+            "stamina": 0,
+            "strength": 0,
+            "athleticism": 0,
+            "fortitude": 0,
+            "reflexes": 0,
+            "cleverness": 0,
+            "knowledge": 0,
+            "perception": 0,
+            "communication": 0,
+            "allure": 0
+        },
+        "life_skills": {
+            "one": 0,
+            "two": 0,
+            "three": 0
+        },
+        "professional_skills": {
+            "one": 0,
+            "two": 0,
+            "three": 0
+        },
+        "circumstance_skills": {
+            "one": 0,
+            "two": 0,
+            "three": 0
+        },
+        "hobby_skills": {
+            "one": 0,
+            "two": 0,
+            "three": 0
+        },
+        "interpersonal_skills": {
+            "one": 0,
+            "two": 0,
+            "three": 0
+        },
+        "augments": [
+            {
+                "one": {
+                    "position" : "cranial",
+                    "appearance": "",
+                    "benefit": ""
+                }
+            },
+            {
+                "two": {
+                    "position" : "torso",
+                    "appearance": "",
+                    "benefit": ""
+                }
+            },
+            {
+                "three": {
+                    "position" : "genitalia",
+                    "appearance": "",
+                    "benefit": ""
+                }
+            }
+        ],
+        "prosthetics" : [
+            {
+                "replaces" : "right leg",
+                "design" : "cosmetic"
+            },
+            {
+                "replaces" : "left arse cheek",
+                "design" : "cosmetic"
+            }
+        ],
+        "tattoes" : [
+            {
+                "position" : "lower back",
+                "design" : "phone number",
+                "animated" : true,
+                "size" : "large",
+                "colour" : ""
+            },
+            {
+                "position" : "lower back",
+                "design" : "phone number",
+                "animated" : true,
+                "size" : "large",
+                "colour" : ""
+            },
+            {
+                "position" : "lower back",
+                "design" : "phone number",
+                "animated" : true,
+                "size" : "large",
+                "colour" : ""
+            }
+        ]
+    }
+}
